@@ -1,0 +1,22 @@
+{
+	_id: ObjectId("1"),
+	"Brand": "Samsung",
+	"Model": "Galaxy Note 10.1",
+	"OSFamily": "Android",
+	"OSVesrion": "4.1.2 Jelly Bean",
+	"Display": "10.1 1280x800 PLS"
+}
+{
+	_id: ObjectId("2"),
+	"Brand": "Apple",
+	"Model": "iPad 4",
+	"OSFamily": "iOS",
+	"Display": "9.7 2048x1536 IPS"
+}
+{
+	_id: ObjectId("3"),
+	"Brand": "Apple",
+	"Model": "iPad Pro",
+	"OSFamily": "iPadOS",
+	"Display": "12.9 2048x2732 IPS"
+}

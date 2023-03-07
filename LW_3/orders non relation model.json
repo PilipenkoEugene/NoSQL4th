@@ -1,0 +1,44 @@
+{
+	"Customer": {
+				"Name": "Koshevoy Dmitry",
+				"CardNumber": "7777-7777-7777-7777"
+				}
+	"Tablet": {
+				"Brand": "Samsung",
+				"Model": "Galaxy Note 10.1",
+				"OSFamily": "Android",
+				"OSVesrion": "4.1.2 Jelly Bean",
+				"Display": "10.1 1280x800 PLS"
+				},
+	"Date": "17.02.2023",
+	"Amount": 1
+}
+{
+	"Customer": {
+				"Name": "W. Axl Rose",
+				"CardNumber": "7777-7777-7777-8888",
+				"Status": "Platinum"
+				}
+	"Tablet": {
+				"Brand": "Apple",
+				"Model": "iPad Pro",
+				"OSFamily": "iPadOS",
+				"Display": "12.9 2048x2732 IPS"
+				},
+	"Date": "18.02.2023",
+	"Amount": 20
+}
+{
+	"Customer": {
+				"Name": "Fred Durst",
+				"CardNumber": "7777-7777-7777-8889"
+				}
+	"Tablet": {
+				"Brand": "Apple",
+				"Model": "iPad 4",
+				"OSFamily": "iOS",
+				"Display": "9.7 2048x1536 IPS"
+				},
+	"Date": "20.02.2023",
+	"Amount": 10
+}

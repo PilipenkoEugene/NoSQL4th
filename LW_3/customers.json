@@ -1,0 +1,16 @@
+{
+	_id: ObjectId("1"),
+	"Name": "Koshevoy Dmitry",
+	"CardNumber": "7777-7777-7777-7777"
+}
+{
+	_id: ObjectId("2"),
+	"Name": "W. Axl Rose",
+	"CardNumber": "7777-7777-7777-8888",
+	"Status": "Platinum"
+}
+{
+	_id: ObjectId("3"),
+	"Name": "Fred Durst",
+	"CardNumber": "7777-7777-7777-8889"
+}
